@@ -5,4 +5,5 @@ I have created a simple systemd service to toggle the mute LED using the followi
 ```bash
 echo 'Master Playback Switch' | sudo tee /sys/class/sound/ctl-led/speaker/card1/attach
 
-souce :-https://github.com/BeardOverflow/msi-ec/discussions/130#discussioncomment-11010018
+souce :[MSI EC GitHub Discussion](https://github.com/BeardOverflow/msi-ec/discussions/130#discussioncomment-11010018)
+
